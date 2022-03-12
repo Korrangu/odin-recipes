@@ -1,0 +1,2 @@
+A project to understand HTML better and see how it goes. 
+I just wrote down some recipes from memory, as I had them for breakfast before doing this exercise. So, it may not look like professionally curated culinary content. The focus here was learning HTML for me. :D
