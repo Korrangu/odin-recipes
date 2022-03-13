@@ -1,0 +1,28 @@
+body {
+    width: 800px;
+    margin: auto
+}
+
+.flex-container {
+    width: 800px;
+    margin: auto;
+    display: flex
+}
+
+.flex-container .ingredients {
+width: 400px;
+padding: 20px;
+margin: 0px;
+align-items: flex-start;
+}
+
+.flex-container .apparatus {
+    width: 400px;
+    padding: 20px;
+    margin: 0px;
+    align-items: flex-end;
+}
+
+h3 {
+    text-align: center;
+}
